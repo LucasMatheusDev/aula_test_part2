@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\lucas\\StudioProjects\\aula_flutter\\aula_test_ui_part2\\house_easy\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rXC\\values-en-rXC.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\lucas\\.gradle\\caches\\transforms-2\\files-2.1\\f4bea62e654082ad54f433ebc0ccad55\\core-1.6.0\\res\\values-en-rXC\\values-en-rXC.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "203",
+                        "endOffsets": "254"
+                    }
+                }
+            ]
+        }
+    ]
+}

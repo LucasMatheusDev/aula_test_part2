@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">40784628036-gj8d124esge3jo4ebshhi8fbhkjqp773.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">40784628036</string>
+    <string name="google_api_key" translatable="false">AIzaSyA4QBeyLzJdz1rA7wPmZC-vWcPshY2TRKo</string>
+    <string name="google_app_id" translatable="false">1:40784628036:android:d7159a37b14d6c115baf11</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA4QBeyLzJdz1rA7wPmZC-vWcPshY2TRKo</string>
+    <string name="google_storage_bucket" translatable="false">house-easy.appspot.com</string>
+    <string name="project_id" translatable="false">house-easy</string>
+</resources>

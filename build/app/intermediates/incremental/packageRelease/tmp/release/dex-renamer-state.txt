@@ -1,0 +1,4 @@
+#Wed Feb 23 06:58:45 BRT 2022
+base.0=C\:\\Users\\lucas\\StudioProjects\\house_easy\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
